@@ -28,7 +28,7 @@ example:
   })
 4. `相对模块`
 * 相对模块将require指向一个相对工作目录中的JavaScript文件
-[example](https://github.com/GalenDeng/Node_and_Express/tree/master/Relative_module)
+* [相对模块代码示例](https://github.com/GalenDeng/Node_and_Express/tree/master/Relative_module)
 ```
 main.js
 require('./module_a')
