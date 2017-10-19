@@ -49,3 +49,5 @@ galen
 this is some data
 5
 ```
+6. `暴露构造器,重写module.exports`
+* [代码示例](https://github.com/GalenDeng/Node_and_Express/tree/master/%E6%9A%B4%E9%9C%B2%E6%9E%84%E9%80%A0%E5%99%A8--%E9%87%8D%E5%86%99module.exports)
