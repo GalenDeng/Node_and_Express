@@ -41,3 +41,11 @@ this is b
 ```
 5. `暴露API---exports OR module`
 * 要让模块暴露一个API成为require调用的返回值，就要依靠module和exports这两个全局变量
+* [代码示例](https://github.com/GalenDeng/Node_and_Express/tree/master/%E6%9A%B4%E9%9C%B2API)
+```
+执行方式：
+F:\暴露API>node index.js
+galen
+this is some data
+5
+```
